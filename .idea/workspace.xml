@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26a92dc9-482b-4f74-8a83-6404f9d5453f" name="Changes" comment="" />
+    <list default="true" id="26a92dc9-482b-4f74-8a83-6404f9d5453f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +16,15 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
   <component name="ProjectId" id="2MjpOKzvjZSfvYnQRQfwjaVplkY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +77,8 @@
       <workItem from="1678621313633" duration="8456000" />
       <workItem from="1678633133903" duration="626000" />
       <workItem from="1678654436484" duration="601000" />
+      <workItem from="1678723040763" duration="81000" />
+      <workItem from="1678738151962" duration="356000" />
     </task>
     <servers />
   </component>
