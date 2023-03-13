@@ -20,23 +20,20 @@ class comment
     function get_date(){
         return $this->date;
     }
-    function __destruct(){ }
-
     public function addcomment($obj){
         $a = unserialize(file_get_contents("../writeable/testfile.txt"));
         $a[] = $obj;
-        return serialize($a);
+        file_put_contents("../writeable/testfile.txt", serialize($a));
     }
 
     public function deleteComment($index) {
-        $array = array();
         if(file_exists("../writeable/testfile.txt")){
             $array = unserialize(file_get_contents("../writeable/testfile.txt"));
-            $arr=array_reverse($array);
+            $reversedarray=array_reverse($array);
         }
-        unset($arr[$index]);
-        file_put_contents("../writeable/testfile.txt", serialize($arr));
-        header("Location: ".$_SERVER['PHP_SELF']);
+        unset($reversedarray[$index]);
+        file_put_contents("../writeable/testfile.txt", serialize($reversedarray));
+        header("Location: index.php");
         exit();
     }
 
