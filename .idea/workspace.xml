@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26a92dc9-482b-4f74-8a83-6404f9d5453f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/includes/add.php" afterDir="false" />
+    <list default="true" id="26a92dc9-482b-4f74-8a83-6404f9d5453f" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +79,22 @@
       <workItem from="1678633133903" duration="626000" />
       <workItem from="1678654436484" duration="601000" />
       <workItem from="1678723040763" duration="81000" />
-      <workItem from="1678738151962" duration="356000" />
+      <workItem from="1678738151962" duration="553000" />
     </task>
+    <task id="LOCAL−00001" summary="Initial commit">
+      <created>1678738945732</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1678738945732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
