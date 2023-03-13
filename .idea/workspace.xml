@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26a92dc9-482b-4f74-8a83-6404f9d5453f" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <workItem from="1678633133903" duration="626000" />
       <workItem from="1678654436484" duration="601000" />
       <workItem from="1678723040763" duration="81000" />
-      <workItem from="1678738151962" duration="553000" />
+      <workItem from="1678738151962" duration="728000" />
     </task>
     <task id="LOCAL−00001" summary="Initial commit">
       <created>1678738945732</created>
@@ -87,7 +86,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1678738945732</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Initial commit">
+      <created>1678739079021</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1678739079021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
